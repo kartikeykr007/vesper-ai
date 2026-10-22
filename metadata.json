@@ -1,0 +1,6 @@
+{
+  "name": "Vesper.ai — Operational AI Infrastructure",
+  "description": "Operational AI Infrastructure. Deploy adaptive AI agents that learn, execute, and scale operational tasks across your business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
